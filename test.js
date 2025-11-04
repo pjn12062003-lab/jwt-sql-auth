@@ -1,1 +1,0 @@
-const par = 12;
